@@ -32,7 +32,9 @@ Go to http://127.0.0.1:8000/ to run the website.
 
 Student User Interface:
 
-<img src="images/student_ui_assign.jpg">
+<img src="images/Student_home.jpg">
+
+<img src="images/Student_Submission.jpg">
 
 <img src="images/student_ui_attendance.jpg">
 
@@ -40,9 +42,12 @@ Student User Interface:
 
 <img src="images/student_ui_timetable.jpg">
 
+
 Teacher user Interface:
 
-<img src="images/staff_ui_assign.jpg">
+<img src="images/staff_home.jpg">
+
+<img src="images/staff_check_Submission.jpg">
 
 <img src="images/staff_ui_attendance1.jpg">
 
